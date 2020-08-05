@@ -11,6 +11,8 @@ django = "*"
 graphene-django = "*"
 django-graphql-jwt = "*"
 django-cors-headers = "*"
+white-noise="3.3.1"
+gunicorn="19.7.1"
 
 [requires]
 python_version = "3.7"
