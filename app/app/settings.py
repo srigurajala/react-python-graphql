@@ -25,7 +25,7 @@ SECRET_KEY = 'e&7yubqk+0sm+i#f1iva271##b@rq1wh&%5)#4x&ei%li!s@pm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [react-python-app.herokuapp.com]
 
 
 # Application definition
